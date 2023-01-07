@@ -4,40 +4,82 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm @lamppu, welcome!
 
-Here you can see some of the projects I've worked on during my Software Engineering studies.
+Here you can see some of the projects I've worked on during my Software Engineering studies and on my spare time.
 
-#### Energy-smarties-server
-- What: A mobile application called GreenerApps.
-- When: Fall of 2019.
+#### VaccineApp web application, 2021-2022
+- This project was part of a job application process and I have modified it based on the feedback
+- Idea: Showing different information from fake vaccine data based on a chosen date and time
+- What I implemented for this project:
+    - created database and seeded it with data from .source-files
+    - created a REST server, with endpoints to get different information
+    - built queries from the server to the database
+    - created the ui with a form to fetch data from the server
+    - wrote tests for both the server and the client
+    - added CircleCI to build and test the app when pushing commits to Git
+- Key takeaways:
+    - learned about the possible pitfalls of working with ISO datetimes
+    - learned to write tests
+    - focused more on readability of the code and clarity of the project structure
+    - gained better understanding of using reusable components with React
+- Tools & technologies: Node.js, Express.js, React, MySQL, CircleCI
+
+https://github.com/lamppu/vaccine-app
+
+#### GreenerApps mobile application, 2019
+- Course: Innovation Project
+- Team members: 6
 - Idea: The app could be used to evaluate how "green" an app is and compare it with other apps in the same category.
-- My responsibility: I implemented the server and the database for the app, and set up and configured the server on a virtual machine.
-- Tools & technologies: Node.js, Express.js, MySQL, Knex.js, Bookshelf.js, Nginx, Azure Cloud, CircleCI
+- My responsibilities: 
+    - planned and created the server and the database for the app
+    - implemented an endpoint to search with a keyword in the server
+    - calculated the scores for the apps
+    - set up and configured the server on a virtual machine in the Azure cloud
+- Key takeaways:
+    - learned to build a server using Node.js and Express.js
+    - gained confidence by learning the use of Knex.js and Bookshelf.js tools independently from documentation
+    - gained better understanding of using asynchronous functions with JavaScript
+    - learned about using Scrum methodology to organize team work
+- Tools & technologies: Node.js, Express.js, MySQL, Azure Virtual Machine, Nginx, CircleCI
 
 https://github.com/lamppu/Energy-smarties-server
 
-#### FlatSwap
-- What: A website called FlatSwap.
-- When: Fall of 2018.
+#### FlatSwap web application, 2018
+- Course: Software Business Start-Up
+- Team members: 5
 - Idea: A website for exchange students to swap their apartments with each other.
-- My responsibility: I implemented the adding of the host, some navigation and some styling.
+- My responsibilities: 
+    - implemented navigation on the site
+    - implemented registering as a host and adding a flat to be swapped
+- Key takeaways:
+    - learned basics of React and Node.js development
 - Tools & technologies: Node.js, Express.js, React.js and MongoDB.
 
 https://github.com/lamppu/FlatSwap
 
-#### StudyCardsApp
-- What: An android application called StudyCards.
-- When: Spring of 2018.
+#### StudyCardsApp android application, 2018
+- Course: Software Structures and Models
+- Team members: 5
 - Idea: A flash card application to study any subject.
-- My responsibility: I implemented adding new cards and reading the cards from and writing them to a .csv-file and saving them in a folder in the user's device.
+- My responsibilities:
+    - implemented adding new cards 
+    - implemented reading the cards from and writing them to a .csv-file
+    - implemented saving the files in a folder in the user's device
+- Key takeaways:
+    - learned basics of Android app development
 - Tools & technologies: Android Studio, Java, XML
 
 https://github.com/lamppu/StudyCardsApp
 
-#### everest
-- What: A web application called Everest.
-- When: Spring of 2018.
+#### Everest web application, 2018
+- Course: Applicaion Development Methods
+- Team members: 4
 - Idea: A task management application for a hotel.
-- My responsibility: I implemented user authorization, adding and removing users and tasks.
-- Tools & technologies: Java, JavaScript, JPA, MariaDB, GlassFish, HTML5, CSS3.
+- My responsibilities:
+    - created the server and database together with another team member
+    - implemented user authentication and authorization (although tbh I didn't really have a good understanding of this yet and implemented it in a bad way)
+    - implemented adding and removing users and tasks
+- Key takeaways:
+    - learned to understand the structure of web applications and how different parts communicate with each other
+- Tools & technologies: JavaEE, JPA, GlassFish, MariaDB, JavaScript, HTML5, CSS3
 
 https://github.com/lamppu/everest
