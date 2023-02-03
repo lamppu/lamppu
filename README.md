@@ -6,7 +6,19 @@ Hi, I'm @lamppu, welcome!
 
 Here you can see some of the projects I've worked on during my Software Engineering studies and on my spare time.
 
-#### VaccineApp web application, 2021-2022
+### PDF Combiner App, 2023
+- A simple React app I created for fun and to strengthen my React skills and to learn basics of TypeScript
+- Idea: The app can be used to select and reorder PDF files to merge together and the created file can be then downloaded
+- Key takeaways:
+    - TypeScript basics
+    - Using prettier to help format code
+    - Using Filepond (by PQINA)
+- Tools & technologies: React, TypeScript
+- Demo: [https://pdf-combiner.vercel.app/](https://pdf-combiner.vercel.app/)
+- Repo: [https://github.com/lamppu/pdf-combiner](https://github.com/lamppu/pdf-combiner)
+
+
+### VaccineApp web application, 2021-2022
 - This project was part of a job application process and I have modified it based on the feedback
 - Idea: Showing different information from fake vaccine data based on a chosen date and time
 - What I implemented for this project:
@@ -22,10 +34,9 @@ Here you can see some of the projects I've worked on during my Software Engineer
     - focused more on readability of the code and clarity of the project structure
     - gained better understanding of using reusable components with React
 - Tools & technologies: Node.js, Express.js, React, MySQL, CircleCI
+- Repo: [https://github.com/lamppu/vaccine-app](https://github.com/lamppu/vaccine-app)
 
-https://github.com/lamppu/vaccine-app
-
-#### GreenerApps mobile application, 2019
+### GreenerApps mobile application, 2019
 - Course: Innovation Project
 - Team members: 6
 - Idea: The app could be used to evaluate how "green" an app is and compare it with other apps in the same category.
@@ -40,10 +51,9 @@ https://github.com/lamppu/vaccine-app
     - gained better understanding of using asynchronous functions with JavaScript
     - learned about using Scrum methodology to organize team work
 - Tools & technologies: Node.js, Express.js, MySQL, Azure Virtual Machine, Nginx, CircleCI
+- Repo: [https://github.com/lamppu/Energy-smarties-server](https://github.com/lamppu/Energy-smarties-server)
 
-https://github.com/lamppu/Energy-smarties-server
-
-#### FlatSwap web application, 2018
+### FlatSwap web application, 2018
 - Course: Software Business Start-Up
 - Team members: 5
 - Idea: A website for exchange students to swap their apartments with each other.
@@ -53,10 +63,9 @@ https://github.com/lamppu/Energy-smarties-server
 - Key takeaways:
     - learned basics of React and Node.js development
 - Tools & technologies: Node.js, Express.js, React.js and MongoDB.
+- Repo: [https://github.com/lamppu/FlatSwap](https://github.com/lamppu/FlatSwap)
 
-https://github.com/lamppu/FlatSwap
-
-#### StudyCardsApp android application, 2018
+### StudyCardsApp android application, 2018
 - Course: Software Structures and Models
 - Team members: 5
 - Idea: A flash card application to study any subject.
@@ -67,8 +76,7 @@ https://github.com/lamppu/FlatSwap
 - Key takeaways:
     - learned basics of Android app development
 - Tools & technologies: Android Studio, Java, XML
-
-https://github.com/lamppu/StudyCardsApp
+- Repo: [https://github.com/lamppu/StudyCardsApp](https://github.com/lamppu/StudyCardsApp)
 
 #### Everest web application, 2018
 - Course: Applicaion Development Methods
@@ -81,5 +89,4 @@ https://github.com/lamppu/StudyCardsApp
 - Key takeaways:
     - learned to understand the structure of web applications and how different parts communicate with each other
 - Tools & technologies: JavaEE, JPA, GlassFish, MariaDB, JavaScript, HTML5, CSS3
-
-https://github.com/lamppu/everest
+- Repo: [https://github.com/lamppu/everest](https://github.com/lamppu/everest)
