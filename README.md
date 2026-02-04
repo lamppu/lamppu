@@ -1,7 +1,7 @@
 <!---
 lamppu/lamppu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 Hi, I'm @lamppu, welcome!
 
 Here you can see some of the projects I've worked on during my Software Engineering studies and on my spare time.
@@ -90,3 +90,4 @@ Here you can see some of the projects I've worked on during my Software Engineer
     - learned to understand the structure of web applications and how different parts communicate with each other
 - Tools & technologies: JavaEE, JPA, GlassFish, MariaDB, JavaScript, HTML5, CSS3
 - Repo: [https://github.com/lamppu/everest](https://github.com/lamppu/everest)
+--->
